@@ -76,6 +76,7 @@ p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:norma
 <p>Contact Us</p>
 <p></p>
 <p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at info@shortcutapplication.com.</p>
+
 </body>
 </html>
 
